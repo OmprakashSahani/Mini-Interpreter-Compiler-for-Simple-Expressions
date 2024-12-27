@@ -33,6 +33,7 @@ variable_name = expression
 Example:
 
 x = 10 + 5
+
 y = x * 2
 
 Exit the interpreter:
