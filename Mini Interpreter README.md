@@ -46,12 +46,15 @@ Supported operations: +, -, *, / (e.g., x = 5 + 3, y = x * 2)
 Type 'exit' to quit the interpreter.
 
 Enter command: x = 5 + 3
+
 x = 8
 
 Enter command: y = x * 2
+
 y = 16
 
 Enter command: z = y / 4
+
 z = 4
 
 Enter command: exit
